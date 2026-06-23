@@ -22,21 +22,21 @@
     "url": "https://nutrichilango.izignamx.com",
     "icon": "https://icons.duckduckgo.com/ip3/nutrichilango.izignamx.com.ico",
     "slug": "nutrichilango",
-    "status": "down",
-    "uptime": "95.41%",
-    "uptimeDay": "77.91%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "95.41%",
-    "time": 87,
-    "timeDay": 79,
-    "timeWeek": 78,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "status": "up",
+    "uptime": "94.68%",
+    "uptimeDay": "75.86%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "94.68%",
+    "time": 89,
+    "timeDay": 90,
+    "timeWeek": 81,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {
       "2026-06-20": 85,
       "2026-06-22": 144,
-      "2026-06-23": 261
+      "2026-06-23": 342
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 1197,
+      "2026-06-23": 1280,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 1197,
+      "2026-06-23": 1280,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
