@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 136,
     "timeDay": 87,
-    "timeWeek": 136,
+    "timeWeek": 127,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {}
@@ -22,21 +22,21 @@
     "url": "https://nutrichilango.izignamx.com",
     "icon": "https://icons.duckduckgo.com/ip3/nutrichilango.izignamx.com.ico",
     "slug": "nutrichilango",
-    "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "83.93%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
-    "time": 89,
-    "timeDay": 83,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "83.87%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
+    "time": 86,
+    "timeDay": 76,
+    "timeWeek": 75,
+    "timeMonth": 86,
+    "timeYear": 86,
     "dailyMinutesDown": {
       "2026-06-20": 85,
       "2026-06-22": 144,
-      "2026-06-23": 88
+      "2026-06-23": 89
     }
   },
   {
@@ -52,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 142,
-    "timeWeek": 84,
+    "timeWeek": 82,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -70,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 60,
-    "timeWeek": 84,
+    "timeWeek": 78,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {}
@@ -88,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 149,
-    "timeWeek": 106,
+    "timeWeek": 73,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 375,
+      "2026-06-23": 800,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-23": 375,
+      "2026-06-23": 800,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
